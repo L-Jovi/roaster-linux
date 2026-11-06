@@ -1,13 +1,13 @@
 # Exercise Linux
 
-Linux system relevant toolset, lang, scripts or modules collection.
+Linux-related exercises, scripts, configuration examples, and personal tool notes. The directories are independent examples, not an installation bundle.
 
-Provide personal note of tools dependency named [Tools](./Tools.md).
+The [Tools](./Tools.md) note preserves the original tool and dependency lists. Review its historical package names and commands before using them on another system.
 
 ## Roadmap
 
 - AWK
 
-- CLang Practice
+- C language practice
 
-- [Docker](./Docker)
+- [Docker](./docker/README.md)
