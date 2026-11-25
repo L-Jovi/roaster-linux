@@ -11,3 +11,7 @@ The [Tools](./Tools.md) note preserves the original tool and dependency lists. R
 - C language practice
 
 - [Docker](./docker/README.md)
+
+## License
+
+[MIT](LICENSE) © 2026 Jovi.
